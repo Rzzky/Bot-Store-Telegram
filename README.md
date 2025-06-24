@@ -53,7 +53,7 @@ Repositori ini menggunakan beberapa file `.json` untuk menyimpan data:
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/rzzky/Bot-Store-Telegram.git](https://github.com/rzzky/Bot-Store-Telegram.git)
+    git clone https://github.com/rzzky/Bot-Store-Telegram
     ```
 2.  **Instal dependensi yang diperlukan:**
     ```bash
